@@ -1,6 +1,6 @@
 -  Hi, I’m KhushvakovaSarvinoz
 -  I’m interested in coding
--  I’m currently learning HTML5,CSS3 and JavaScript
+-  I’m currently learning React. (I also have sufficient knowledge and experience in HTML5,CSS3 and JavaScript.
 -  I’m looking to collaborate on participation in optional projects for creating web-sites.
 -  contact me: sarvinozxushvakova@gmail.com
 
